@@ -1,5 +1,5 @@
 {
-  "name": "@altv/types",
+  "name": "@types/altv",
   "version": "1.0.19",
   "description": "TypeScript typings for alt:V client & server",
   "types": "types/index.d.ts",
